@@ -10,6 +10,7 @@ A simple desktop application that analyzes photos using AI and generates detaile
 - **User-Friendly GUI**: Clean and intuitive interface built with Tkinter
 - **Multiple Image Formats**: Supports JPG, PNG, BMP, GIF, TIFF, and more
 
+
 ## Screenshots
 
 The application provides:
