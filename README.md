@@ -12,6 +12,7 @@ A simple desktop application that analyzes photos using AI and generates detaile
 
 
 ## Screenshots
+<img width="1399" height="930" alt="Screenshot 2025-10-03 065525" src="https://github.com/user-attachments/assets/15726ae9-b183-4e61-b00f-8767d25f4160" />
 
 The application provides:
 - Image preview with automatic resizing
